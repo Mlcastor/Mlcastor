@@ -26,7 +26,6 @@ I actively contribute to open-source libraries such as Pandas, MatPlotLib, and C
 
 ## 📫 Contact Me
 
-- WhatsApp: 0616930791
 - Email: jeremie.escach74@gmail.com
 
 ## ⚡ Fun Fact
