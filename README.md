@@ -2,7 +2,7 @@
 
 ## 💼 Software Engineer
 
-I am a highly motivated and fast-learning software engineer with a strong passion for AI and a keen interest in working for a major tech company. With an IQ of 148, I possess the ability to quickly grasp new concepts and technologies, enabling me to adapt and excel in dynamic work environments.
+I am a highly motivated and fast-learning software engineer with a strong passion for AI and a keen interest in working for a major tech company. I possess the ability to quickly grasp new concepts and technologies, enabling me to adapt and excel in dynamic work environments.
 
 ## 🌱 Skills & Expertise
 
