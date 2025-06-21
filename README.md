@@ -6,7 +6,7 @@ I am a highly motivated and fast-learning software engineer with a strong passio
 
 ## 🌱 Skills & Expertise
 
-- **Programming Languages:** Python, C++ (Unreal Engine), JavaScript (Basic data structures)
+- **Programming Languages:** Python, C++ (Unreal Engine), JavaScript, TypeScript
 - **Libraries & Frameworks:** CrewAI, LangChain, AutoGen, Django, Flask, python-ollama, Pycord, Pyglet, TKinter, PyPandoc, Pandas, MatPlotLib, Sphinx, PyFlyT, Gymnasium, Colossal-AI, cookiecutter, Fabric, MindsDB, Pytest, unit test, PyTorch, scikit-learn
 - **Areas of Interest:** AI agents powered by LLMs, Deep Reinforcement Learning, Computer Vision
 
