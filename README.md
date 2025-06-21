@@ -12,13 +12,8 @@ I am a highly motivated and fast-learning software engineer with a strong passio
 
 ## 🚀 Projects
 
-- **Specification Paper Creator:** Developing an AI-powered tool using CrewAI to assist software engineers in creating tailored specification papers by asking relevant questions and searching the web for the best technologies suited to their use case. (In Progress)
-- **InnoviScrypt:** Building an AI-driven ebook generator that utilizes agents to ask users specific questions about their book and tailor the content based on their needs, with the ability to search the web for additional information. (In Progress)
-
-## 🎓 Education
-
-- JavaScript Data Structures and Algorithms Certification, FreeCodeCamp.com
-- French Baccalauréat level education (without the actual degree)
+- **[Knights On Base](https://www.knightsonbase.xyz/):** Developing an AI-powered TTRPG Game Master to provide an accessible and open tabletop RPG experience. (In Progress)
+- **[ESX Bundle](https://github.com/Mlcastor/vent-esx-bundle):** Building a custom ESX drag & drop bundle for FiveM RP server owner. (In Progress)
 
 ## 🌐 Open Source Contributions
 
