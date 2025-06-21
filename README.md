@@ -13,7 +13,7 @@ I am a highly motivated and fast-learning software engineer with a strong passio
 ## 🚀 Projects
 
 - **[Knights On Base](https://www.knightsonbase.xyz/):** Developing an AI-powered TTRPG Game Master to provide an accessible and open tabletop RPG experience. (In Progress)
-- **[ESX Bundle](https://github.com/Mlcastor/vent-esx-bundle):** Building a custom ESX drag & drop bundle for FiveM RP server owner. (In Progress)
+- **[ESX Bundle](https://github.com/Mlcastor/vent_esx_bundle):** Building a custom ESX drag & drop bundle for FiveM RP server owner. (In Progress)
 
 ## 🌐 Open Source Contributions
 
